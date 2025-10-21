@@ -1,7 +1,7 @@
 4### app-dev
 My First Repository 
 
-## **bold text** Oppenheimer
+## Oppenheimer
 
 ### genre and general info
 Directed By: Christoper Nolan
